@@ -1,2 +1,2 @@
 # Week2
-Deforestation Prediction
+Deforestation Detection
